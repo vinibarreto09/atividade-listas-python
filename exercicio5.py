@@ -1,4 +1,3 @@
-# Dados iniciais
 turma = [
     ['Alice', 8.0, 7.5, 9.0],
     ['Bruno', 6.5, 7.0, 8.0],
